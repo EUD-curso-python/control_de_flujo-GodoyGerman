@@ -3,6 +3,20 @@
 usando el bucle while
 """
 
+n = 0;
+naturales =  []
+
+while n <= 99:
+  
+  n = n + 1
+  naturales.append(n)
+  
+   
+print(naturales)
+  
+
+
+
 
 
 
