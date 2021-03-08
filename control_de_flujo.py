@@ -30,6 +30,8 @@ Hasta el número 50.
 
 
 
+
+
 """Guarde en `suma100` el entero de la suma de todos los números entre 1 y 100:
 """
 
